@@ -98,3 +98,70 @@ Some useful shortcuts for IntelliJ IDEA
 | alt+ctrl+UP | Navigate to previous occurrence |
 | alt+ctrl+DOWN | Navigate to next occurrence |
 | shift+ctrl+BACKSPACE | Move to last edit location |
+
+## Code Folding
+| Shortcuts     | Description   |
+| ------------- | ------------- |
+| ctrl+= | Expand current method, class, or block |
+| shift+ctrl+= | Expand all folded blocks |
+| ctrl+. | Fold or expand current selection |
+| shift+ctrl+. | Fold current code block |
+
+## Debugging
+| Shortcuts     | Description   |
+| ------------- | ------------- |
+| shift+F9 | Debug |
+| shift+alt+F9 | Choose configuration and debug |
+| F8 | Step over |
+| F7 | Step into |
+| shift+F7 | Select method to step into on current line |
+| shift+F8 | Step out |
+| shift+alt+F8 | Force step over |
+| shift+alt+F7 | Force step into |
+| alt+F9 | Run to cursor |
+| alt+ctrl+F9 | Run to cursor ignoring breakpoints |
+| F9 | Resume program |
+| shift+F2 | Stop program |
+
+## Running
+| Shortcuts     | Description   |
+| ------------- | ------------- |
+| ctrl+F9 | Make project |
+| shift+F10 | Run |
+| shift+alt+F10 | Choose configuration and run |
+| shift+F10 | Rerun without loosing focus in editor |
+| ctrl+F10 | Reload updated resources |
+| alt+F8 | Evaluate expression |
+| alt+ctrl+F8 | Quick evaluate expression |
+
+## Find And Replace
+| Shortcuts     | Description   |
+| ------------- | ------------- |
+| ctrl+F | Find |
+| ctrl+R | Replace |
+| ctrl+L | Find next |
+| shift+ctrl+L | Find previous |
+| shift+ctrl+F | Find in path |
+| shift+ctrl+R | Replace in path |
+| alt+F7 | Find usages |
+
+## Bookmarks
+| Shortcuts     | Description   |
+| ------------- | ------------- |
+| ctrl+F11 | Toggle bookmark with mnemonic |
+| ctrl+3 | Go to bookmark number 3 |
+| ctrl+7 | Go to bookmark number 7 |
+
+## Refactoring
+| Shortcuts     | Description   |
+| ------------- | ------------- |
+| shift+F6 | Rename selected statement |
+| F5 | Copy selected class/file |
+| shift+F5 | Clone selected class |
+| alt+DEL | Safely delete selected class/method |
+| alt+ctrl+M | Extract method |
+| alt+ctrl+V | Introduce variable |
+| alt+ctrl+F | Introduce field |
+| alt+ctrl+C | Introduce constant |
+| alt+ctrl+P | Introduce parameter |
+| alt+ctrl+N | Inline selected method/variable |
