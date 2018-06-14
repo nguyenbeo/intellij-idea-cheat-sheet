@@ -1,6 +1,8 @@
 # intellij-idea-cheat-sheet
 Some useful shortcuts for IntelliJ IDEA
 
+NB: All Ctrl can be replaced by Cmd in Mac OS
+
 ## Basic Editing I
 | Shortcuts     | Description   |
 | ------------- | ------------- |
